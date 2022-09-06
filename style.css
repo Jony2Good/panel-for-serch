@@ -1,0 +1,33 @@
+
+form {
+  background: linear-gradient(90deg, #2fbdff, #ff7582);
+}
+
+tbody {
+  background-color: #ffff;
+}
+
+body {
+  background-image: url("img-univ.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#table-body {
+  background: linear-gradient(90deg, #da6085, #d7ede2);
+}
+
+.search-area {
+  background: linear-gradient(90deg, #f1caba, #950b0b);
+
+}
+.search-area__title {
+  margin-bottom: 10px;
+}
+.btn-add {
+  width: 100%;
+}
+.students-table {
+  border: 1px solid #000;
+}
+
